@@ -12,7 +12,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Frwdit)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanith643/Frwdit)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
@@ -23,7 +23,7 @@ Deploy in your vps
 git clone https://github.com/Jijinr/Frwdit
 cd Frwit
 pip3 install -r requirements.txt
-# <Create Variables appropriately>
+# <Create Variables appropriate
 python3 main.py
 ```
 
